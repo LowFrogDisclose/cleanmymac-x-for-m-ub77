@@ -1,4 +1,4 @@
-
+Enhance CleanMyMac X for macOS with vip CleanMyMac X for macOS Script | performance-boost + snapshot-rollback, the #1 script. Includes performance-boost and snapshot-rollback for
 
 
 
